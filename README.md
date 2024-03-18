@@ -5,3 +5,4 @@
 2. the first time you run main.py, it will automatically download the data to the 'data' directory 
 3. config files need to be in the 'config' directory
 5. The other two python ipynb files are our eda and baseline models
+6. checking URL https://ju-dyz.github.io/MNIST-Performance/ to see our model performance
